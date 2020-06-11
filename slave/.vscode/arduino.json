@@ -1,0 +1,6 @@
+{
+    "sketch": "src/Slave.ino",
+    "board": "arduino:avr:uno",
+    "port": "/dev/ttyACM0",
+    "programmer": "AVR ISP"
+}
